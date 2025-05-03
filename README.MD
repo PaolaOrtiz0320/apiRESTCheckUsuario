@@ -4,7 +4,7 @@
 Ing. en Tic´s
 
 # Materia:
-Desarrollo de Software Avanzado
+Taller de Desarrollo de Software Avanzado
 
 # Tema
 webApi (apiRESTCheckUsuario)
